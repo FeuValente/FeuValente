@@ -18,8 +18,8 @@
  </p>
   
 <a href="https://api.whatsapp.com/send?phone=+5531982804597">
-    <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title = "Text me" align = "right" alt = "Whatsapp">
+    <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_Blank" title = "Text me" align = "right" alt = "Whatsapp">
 </a>
 <a href="https://www.linkedin.com/in/alfeuvalente/">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "Minha rede social" align = "right" alt = "LinkedIn">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_Blank" title = "Minha rede social" align = "right" alt = "LinkedIn">
 </a>
