@@ -13,9 +13,9 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
-<p align = "center">
-Em busca de conhecimento...
-</p>
+<a align="center">
+   Em busca de conhecimento...
+</a><br/>
 
   
 <a href="https://api.whatsapp.com/send?phone=+5531982804597">
