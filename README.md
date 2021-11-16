@@ -13,10 +13,9 @@
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
-<a align="center">
-   Em busca de conhecimento...
-</a><br/>
-
+ <p align="center">
+ Em busca de conhecimento...
+ </p>
   
 <a href="https://api.whatsapp.com/send?phone=+5531982804597">
     <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title = "Text me" align = "right" alt = "Whatsapp">
