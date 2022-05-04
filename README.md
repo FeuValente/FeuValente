@@ -19,7 +19,7 @@
  Em busca de conhecimento...
  </p>
   
-<a href="https://api.whatsapp.com/send?phone=+5542991387828">
+<a href="https://wa.me/message/TS2AR4U2VNAOP1">
     <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title = "Text me" align = "right" alt = "Whatsapp">
 </a>
 <a href="https://www.linkedin.com/in/alfeuvalente/">
