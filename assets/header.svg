@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">Alfeu Valente — código, processos e evolução</title><desc id="desc">Banner escuro com linhas verdes em movimento.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#20312d" stroke-width=".6"/></pattern><linearGradient id="g"><stop stop-color="#72f5b0"/><stop offset="1" stop-color="#5dd9ed"/></linearGradient></defs>
+<rect width="960" height="260" rx="20" fill="#0d1518"/><rect width="960" height="260" rx="20" fill="url(#grid)"/>
+<path d="M690 0V60L750 120H960M810 260V210L865 155H960" fill="none" stroke="#29463e" stroke-width="2"/>
+<circle r="4" fill="#72f5b0"><animateMotion dur="6s" repeatCount="indefinite" path="M690 0V60L750 120H960"/></circle>
+<circle r="4" fill="#5dd9ed"><animateMotion dur="8s" repeatCount="indefinite" path="M810 260V210L865 155H960"/></circle>
+<text x="56" y="64" fill="#72f5b0" font-family="monospace" font-size="14" letter-spacing="3">OLÁ, EU SOU</text>
+<text x="52" y="126" fill="#f0f6f4" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="54">Alfeu Valente<tspan fill="#72f5b0">.</tspan></text>
+<text x="56" y="168" fill="#b5c8c0" font-family="Segoe UI,Arial,sans-serif" font-size="20">Código, processos e evolução contínua.</text>
+<rect x="56" y="198" width="180" height="3" rx="1.5" fill="url(#g)"><animate attributeName="width" values="90;240;90" dur="5s" repeatCount="indefinite"/></rect>
+<text x="860" y="224" fill="#72f5b0" font-family="monospace" font-size="30">&lt;/&gt;</text></svg>

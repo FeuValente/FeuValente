@@ -1,27 +1,42 @@
-##
- <div align="center">
-<a href="https://github.com/FeuValente" title="minhas_linguagens" align="center">
-  
-  <img height="200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FeuValente&layout=compact&langs_count=7&theme=chartreuse-dark" align="center"/>
+<div align="center">
+
+![Alfeu Valente — código, processos e evolução contínua](assets/header.svg)
+
+**Programação • Engenharia de Produção • Melhoria contínua**
+
+Conectando o raciocínio da engenharia à criatividade do código.
+
+[![Instagram](https://img.shields.io/badge/@eng__valente-Instagram-16352b?style=for-the-badge&logo=instagram&logoColor=72f5b0)](https://www.instagram.com/eng_valente/)
+
 </div>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Feu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Feu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Feu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Feu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Feu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Feu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Feu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div><br/>
+### Um pouco sobre mim
 
- <p align="center">
- Em busca de conhecimento...
- </p>
-  
-<a href="https://wa.me/message/TS2AR4U2VNAOP1">
-    <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title = "Text me" align = "right" alt = "Whatsapp">
-</a>
-<a href="https://www.linkedin.com/in/alfeuvalente/">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title = "Minha rede social" align = "right" alt = "LinkedIn">
-</a>
+Gosto de resolver problemas — tanto na programação quanto na melhoria de processos de produção. Por aqui, compartilho projetos, exploro tecnologias e sigo aprendendo na prática.
+
+> Aprender, construir, melhorar. E repetir. ↗
+
+### Tecnologias que exploro
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
+</p>
+
+<p align="center"><sub>JavaScript · TypeScript · React · HTML · CSS · Python · C#</sub></p>
+
+### Meu código em números
+
+<div align="center">
+
+![Distribuição de linguagens nos meus repositórios públicos](assets/languages.svg)
+
+<sub>Atualização diária · proporção de bytes de código · repositórios públicos próprios, sem forks.<br />HTML e CSS também aparecem na classificação de linguagens do GitHub.</sub>
+
+</div>
+
