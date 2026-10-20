@@ -12,7 +12,7 @@ Conectando o raciocínio da engenharia à criatividade do código.
 
 ### Um pouco sobre mim
 
-Gosto de resolver problemas — tanto na programação quanto na melhoria de processos de produção. Por aqui, compartilho projetos, exploro tecnologias e sigo aprendendo na prática.
+Gosto de resolver problemas, tanto na programação quanto na melhoria de processos de produção. Por aqui, compartilho projetos, exploro tecnologias e sigo aprendendo na prática.
 
 > Aprender, construir, melhorar. E repetir. ↗
 
@@ -29,14 +29,4 @@ Gosto de resolver problemas — tanto na programação quanto na melhoria de pro
 </p>
 
 <p align="center"><sub>JavaScript · TypeScript · React · HTML · CSS · Python · C#</sub></p>
-
-### Meu código em números
-
-<div align="center">
-
-![Distribuição de linguagens nos meus repositórios públicos](assets/languages.svg)
-
-<sub>Atualização diária · proporção de bytes de código · repositórios públicos próprios, sem forks.<br />HTML e CSS também aparecem na classificação de linguagens do GitHub.</sub>
-
-</div>
 
